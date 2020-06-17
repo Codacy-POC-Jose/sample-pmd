@@ -1,6 +1,6 @@
 ---
 engines:
- pmd:
+ SQLint:
   exclude_paths:
    - '**.sql'
  eslint:
