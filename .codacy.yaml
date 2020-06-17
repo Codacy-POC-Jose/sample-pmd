@@ -2,7 +2,7 @@
   engines:
     SQLint:
       exclude_paths:
-        - **.sql
+        - '**.sql'
     eslint:
       exclude_paths:
         - '*.jsx'
