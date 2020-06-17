@@ -1,0 +1,5 @@
+---
+engines:
+ pmd:
+  exclude_paths:
+   - '**.java'
