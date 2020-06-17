@@ -3,3 +3,6 @@ engines:
  pmd:
   exclude_paths:
    - '*.jsx'
+ eslint:
+  exclude_paths:
+   - '*.jsx'
