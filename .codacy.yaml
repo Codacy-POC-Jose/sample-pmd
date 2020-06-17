@@ -2,7 +2,7 @@
 engines:
  pmd:
   exclude_paths:
-   - '**/*.abc'
+   - '**/*.sql'
  eslint:
   exclude_paths:
    - '*.jsx'
